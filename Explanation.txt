@@ -1,0 +1,31 @@
+
+Front-End development:
+
+Front end development is mostly focused on what some may coin the "client side" of development. 
+Front end developers will be engaged in analyzing code, design, and debugging applications along with ensuring a seamless user 
+experience. You manage what people first see in their browser. As a front end developer you are responsible for the look, feel 
+and ultimately design of the site.
+
+Front-End development:[LANGUAGES]
+HTML
+CSS
+javaScript
+
+
+
+
+Back-End Development:
+
+Back end Development refers to the server side of development where you are primarily focused on how the site works. 
+Making updates and changes in addition to monitoring functionality of the site will be your primary responsibility. This type 
+of web development usually consists of three parts: a server, an application, and a database. Code written by back end 
+developers is what communicates the database information to the browser. Anything you can’t see easily with the eye such as 
+databases and servers is the work of a back end developer.  Back end developer positions are often called programmers or web 
+developers.
+
+Back-End Development:[LANGUAGES]
+
+java
+php
+python
+.net
